@@ -1,0 +1,448 @@
+fileFormatVersion: 2
+guid: 3eb0eb90a1f676a4893efa138db590d0
+timeCreated: 1491669784
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - MapleStory - Wild Kargo_0
+    21300002: PC Computer - MapleStory - Wild Kargo_1
+    21300004: PC Computer - MapleStory - Wild Kargo_2
+    21300006: PC Computer - MapleStory - Wild Kargo_3
+    21300008: PC Computer - MapleStory - Wild Kargo_4
+    21300010: PC Computer - MapleStory - Wild Kargo_5
+    21300012: PC Computer - MapleStory - Wild Kargo_6
+    21300014: PC Computer - MapleStory - Wild Kargo_7
+    21300016: PC Computer - MapleStory - Wild Kargo_8
+    21300018: PC Computer - MapleStory - Wild Kargo_9
+    21300020: PC Computer - MapleStory - Wild Kargo_10
+    21300022: PC Computer - MapleStory - Wild Kargo_11
+    21300024: PC Computer - MapleStory - Wild Kargo_12
+    21300026: PC Computer - MapleStory - Wild Kargo_13
+    21300028: PC Computer - MapleStory - Wild Kargo_14
+    21300030: PC Computer - MapleStory - Wild Kargo_15
+    21300032: PC Computer - MapleStory - Wild Kargo_16
+    21300034: PC Computer - MapleStory - Wild Kargo_17
+    21300036: PC Computer - MapleStory - Wild Kargo_18
+    21300038: PC Computer - MapleStory - Wild Kargo_19
+    21300040: PC Computer - MapleStory - Wild Kargo_20
+    21300042: PC Computer - MapleStory - Wild Kargo_21
+    21300044: PC Computer - MapleStory - Wild Kargo_22
+    21300046: PC Computer - MapleStory - Wild Kargo_23
+    21300048: PC Computer - MapleStory - Wild Kargo_24
+    21300050: PC Computer - MapleStory - Wild Kargo_25
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Wild Kargo_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 454
+        width: 159
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Wild Kargo_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 348
+        width: 166
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Wild Kargo_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 348
+        width: 156
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Wild Kargo_3
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 348
+        width: 147
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Wild Kargo_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 348
+        width: 139
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Wild Kargo_5
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 348
+        width: 151
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Wild Kargo_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 236
+        width: 156
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Wild Kargo_7
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 204
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Wild Kargo_8
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 213
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Wild Kargo_9
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 213
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Wild Kargo_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 216
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Wild Kargo_11
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 213
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Wild Kargo_12
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 216
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Wild Kargo_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 113
+        width: 116
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Wild Kargo_14
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 197
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Wild Kargo_15
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 197
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Wild Kargo_16
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 197
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Wild Kargo_17
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 197
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Wild Kargo_18
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 197
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Wild Kargo_19
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 197
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Wild Kargo_20
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 176
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Wild Kargo_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6
+        width: 162
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Wild Kargo_22
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 6
+        width: 162
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Wild Kargo_23
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 7
+        width: 162
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Wild Kargo_24
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 8
+        width: 166
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Wild Kargo_25
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 8
+        width: 166
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

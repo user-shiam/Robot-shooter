@@ -1,0 +1,1484 @@
+fileFormatVersion: 2
+guid: 76c4b63b055296a4080dd3e1fa93efc8
+timeCreated: 1491761803
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - MapleStory - Layka_0
+    21300002: PC Computer - MapleStory - Layka_1
+    21300004: PC Computer - MapleStory - Layka_2
+    21300006: PC Computer - MapleStory - Layka_3
+    21300008: PC Computer - MapleStory - Layka_4
+    21300010: PC Computer - MapleStory - Layka_5
+    21300012: PC Computer - MapleStory - Layka_6
+    21300014: PC Computer - MapleStory - Layka_7
+    21300016: PC Computer - MapleStory - Layka_8
+    21300018: PC Computer - MapleStory - Layka_9
+    21300020: PC Computer - MapleStory - Layka_10
+    21300022: PC Computer - MapleStory - Layka_11
+    21300024: PC Computer - MapleStory - Layka_12
+    21300026: PC Computer - MapleStory - Layka_13
+    21300028: PC Computer - MapleStory - Layka_14
+    21300030: PC Computer - MapleStory - Layka_15
+    21300032: PC Computer - MapleStory - Layka_16
+    21300034: PC Computer - MapleStory - Layka_17
+    21300036: PC Computer - MapleStory - Layka_18
+    21300038: PC Computer - MapleStory - Layka_19
+    21300040: PC Computer - MapleStory - Layka_20
+    21300042: PC Computer - MapleStory - Layka_21
+    21300044: PC Computer - MapleStory - Layka_22
+    21300046: PC Computer - MapleStory - Layka_23
+    21300048: PC Computer - MapleStory - Layka_24
+    21300050: PC Computer - MapleStory - Layka_25
+    21300052: PC Computer - MapleStory - Layka_26
+    21300054: PC Computer - MapleStory - Layka_27
+    21300056: PC Computer - MapleStory - Layka_28
+    21300058: PC Computer - MapleStory - Layka_29
+    21300060: PC Computer - MapleStory - Layka_30
+    21300062: PC Computer - MapleStory - Layka_31
+    21300064: PC Computer - MapleStory - Layka_32
+    21300066: PC Computer - MapleStory - Layka_33
+    21300068: PC Computer - MapleStory - Layka_34
+    21300070: PC Computer - MapleStory - Layka_35
+    21300072: PC Computer - MapleStory - Layka_36
+    21300074: PC Computer - MapleStory - Layka_37
+    21300076: PC Computer - MapleStory - Layka_38
+    21300078: PC Computer - MapleStory - Layka_39
+    21300080: PC Computer - MapleStory - Layka_40
+    21300082: PC Computer - MapleStory - Layka_41
+    21300084: PC Computer - MapleStory - Layka_42
+    21300086: PC Computer - MapleStory - Layka_43
+    21300088: PC Computer - MapleStory - Layka_44
+    21300090: PC Computer - MapleStory - Layka_45
+    21300092: PC Computer - MapleStory - Layka_46
+    21300094: PC Computer - MapleStory - Layka_47
+    21300096: PC Computer - MapleStory - Layka_48
+    21300098: PC Computer - MapleStory - Layka_49
+    21300100: PC Computer - MapleStory - Layka_50
+    21300102: PC Computer - MapleStory - Layka_51
+    21300104: PC Computer - MapleStory - Layka_52
+    21300106: PC Computer - MapleStory - Layka_53
+    21300108: PC Computer - MapleStory - Layka_54
+    21300110: PC Computer - MapleStory - Layka_55
+    21300112: PC Computer - MapleStory - Layka_56
+    21300114: PC Computer - MapleStory - Layka_57
+    21300116: PC Computer - MapleStory - Layka_58
+    21300118: PC Computer - MapleStory - Layka_59
+    21300120: PC Computer - MapleStory - Layka_60
+    21300122: PC Computer - MapleStory - Layka_61
+    21300124: PC Computer - MapleStory - Layka_62
+    21300126: PC Computer - MapleStory - Layka_63
+    21300128: PC Computer - MapleStory - Layka_64
+    21300130: PC Computer - MapleStory - Layka_65
+    21300132: PC Computer - MapleStory - Layka_66
+    21300134: PC Computer - MapleStory - Layka_67
+    21300136: PC Computer - MapleStory - Layka_68
+    21300138: PC Computer - MapleStory - Layka_69
+    21300140: PC Computer - MapleStory - Layka_70
+    21300142: PC Computer - MapleStory - Layka_71
+    21300144: PC Computer - MapleStory - Layka_72
+    21300146: PC Computer - MapleStory - Layka_73
+    21300148: PC Computer - MapleStory - Layka_74
+    21300150: PC Computer - MapleStory - Layka_75
+    21300152: PC Computer - MapleStory - Layka_76
+    21300154: PC Computer - MapleStory - Layka_77
+    21300156: PC Computer - MapleStory - Layka_78
+    21300158: PC Computer - MapleStory - Layka_79
+    21300160: PC Computer - MapleStory - Layka_80
+    21300162: PC Computer - MapleStory - Layka_81
+    21300164: PC Computer - MapleStory - Layka_82
+    21300166: PC Computer - MapleStory - Layka_83
+    21300168: PC Computer - MapleStory - Layka_84
+    21300170: PC Computer - MapleStory - Layka_85
+    21300172: PC Computer - MapleStory - Layka_86
+    21300174: PC Computer - MapleStory - Layka_87
+    21300176: PC Computer - MapleStory - Layka_88
+    21300178: PC Computer - MapleStory - Layka_89
+    21300180: PC Computer - MapleStory - Layka_90
+    21300182: PC Computer - MapleStory - Layka_91
+    21300184: PC Computer - MapleStory - Layka_92
+    21300186: PC Computer - MapleStory - Layka_93
+    21300188: PC Computer - MapleStory - Layka_94
+    21300190: PC Computer - MapleStory - Layka_95
+    21300192: PC Computer - MapleStory - Layka_96
+    21300194: PC Computer - MapleStory - Layka_97
+    21300196: PC Computer - MapleStory - Layka_98
+    21300198: PC Computer - MapleStory - Layka_99
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1077
+        width: 246
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1077
+        width: 223
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_2
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1077
+        width: 230
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_3
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1077
+        width: 233
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_4
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1077
+        width: 240
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_5
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1077
+        width: 250
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_6
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1077
+        width: 258
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_7
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1077
+        width: 263
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_8
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1151
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_9
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 1077
+        width: 246
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_10
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 1077
+        width: 225
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_11
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 850
+        width: 246
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_12
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 850
+        width: 223
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_13
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 850
+        width: 230
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_14
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 850
+        width: 233
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_15
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 850
+        width: 238
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_16
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 850
+        width: 250
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_17
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 850
+        width: 258
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_18
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 850
+        width: 263
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 608
+        width: 249
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_20
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 608
+        width: 236
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_21
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 608
+        width: 245
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_22
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 608
+        width: 251
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_23
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 589
+        width: 258
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_24
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 589
+        width: 269
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_25
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 589
+        width: 276
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_26
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 589
+        width: 285
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_27
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 608
+        width: 265
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_28
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 608
+        width: 113
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_29
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 589
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_30
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 589
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_31
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 589
+        width: 43
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_32
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 589
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_33
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 589
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_34
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 542
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_35
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 550
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_36
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 542
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_37
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 557
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_38
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 547
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_39
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 382
+        width: 119
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_40
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 382
+        width: 122
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_41
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 382
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_42
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 524
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_43
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 524
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_44
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 520
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_45
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 522
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_46
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 382
+        width: 70
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_47
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 469
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_48
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 499
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_49
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 500
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_50
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 505
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_51
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 500
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_52
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 502
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_53
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 382
+        width: 101
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_54
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 382
+        width: 112
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_55
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 382
+        width: 102
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_56
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 382
+        width: 89
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_57
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 484
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_58
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 466
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_59
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 471
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_60
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 471
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_61
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 475
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_62
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 382
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_63
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 476
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_64
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 480
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_65
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 471
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_66
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 382
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_67
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 382
+        width: 81
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_68
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 458
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_69
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 461
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_70
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 465
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_71
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 456
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_72
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 460
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_73
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 465
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_74
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 453
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_75
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 443
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_76
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 461
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_77
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 382
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_78
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 432
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_79
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 382
+        width: 128
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_80
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 428
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_81
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 415
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_82
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 429
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_83
+      rect:
+        serializedVersion: 2
+        x: 2371
+        y: 424
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_84
+      rect:
+        serializedVersion: 2
+        x: 2383
+        y: 420
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_85
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 423
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_86
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 382
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_87
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 393
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_88
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 389
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_89
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 247
+        width: 101
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_90
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 247
+        width: 82
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_91
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 11
+        width: 249
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_92
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 117
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_93
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 11
+        width: 305
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_94
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 11
+        width: 334
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_95
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 11
+        width: 334
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_96
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 11
+        width: 336
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_97
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 11
+        width: 346
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_98
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 11
+        width: 355
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Layka_99
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 11
+        width: 178
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

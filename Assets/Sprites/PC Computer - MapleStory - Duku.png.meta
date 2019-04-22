@@ -1,0 +1,1232 @@
+fileFormatVersion: 2
+guid: efd683926d669784c9c3ef841e7e4e53
+timeCreated: 1491745137
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - MapleStory - Duku_0
+    21300002: PC Computer - MapleStory - Duku_1
+    21300004: PC Computer - MapleStory - Duku_2
+    21300006: PC Computer - MapleStory - Duku_3
+    21300008: PC Computer - MapleStory - Duku_4
+    21300010: PC Computer - MapleStory - Duku_5
+    21300012: PC Computer - MapleStory - Duku_6
+    21300014: PC Computer - MapleStory - Duku_7
+    21300016: PC Computer - MapleStory - Duku_8
+    21300018: PC Computer - MapleStory - Duku_9
+    21300020: PC Computer - MapleStory - Duku_10
+    21300022: PC Computer - MapleStory - Duku_11
+    21300024: PC Computer - MapleStory - Duku_12
+    21300026: PC Computer - MapleStory - Duku_13
+    21300028: PC Computer - MapleStory - Duku_14
+    21300030: PC Computer - MapleStory - Duku_15
+    21300032: PC Computer - MapleStory - Duku_16
+    21300034: PC Computer - MapleStory - Duku_17
+    21300036: PC Computer - MapleStory - Duku_18
+    21300038: PC Computer - MapleStory - Duku_19
+    21300040: PC Computer - MapleStory - Duku_20
+    21300042: PC Computer - MapleStory - Duku_21
+    21300044: PC Computer - MapleStory - Duku_22
+    21300046: PC Computer - MapleStory - Duku_23
+    21300048: PC Computer - MapleStory - Duku_24
+    21300050: PC Computer - MapleStory - Duku_25
+    21300052: PC Computer - MapleStory - Duku_26
+    21300054: PC Computer - MapleStory - Duku_27
+    21300056: PC Computer - MapleStory - Duku_28
+    21300058: PC Computer - MapleStory - Duku_29
+    21300060: PC Computer - MapleStory - Duku_30
+    21300062: PC Computer - MapleStory - Duku_31
+    21300064: PC Computer - MapleStory - Duku_32
+    21300066: PC Computer - MapleStory - Duku_33
+    21300068: PC Computer - MapleStory - Duku_34
+    21300070: PC Computer - MapleStory - Duku_35
+    21300072: PC Computer - MapleStory - Duku_36
+    21300074: PC Computer - MapleStory - Duku_37
+    21300076: PC Computer - MapleStory - Duku_38
+    21300078: PC Computer - MapleStory - Duku_39
+    21300080: PC Computer - MapleStory - Duku_40
+    21300082: PC Computer - MapleStory - Duku_41
+    21300084: PC Computer - MapleStory - Duku_42
+    21300086: PC Computer - MapleStory - Duku_43
+    21300088: PC Computer - MapleStory - Duku_44
+    21300090: PC Computer - MapleStory - Duku_45
+    21300092: PC Computer - MapleStory - Duku_46
+    21300094: PC Computer - MapleStory - Duku_47
+    21300096: PC Computer - MapleStory - Duku_48
+    21300098: PC Computer - MapleStory - Duku_49
+    21300100: PC Computer - MapleStory - Duku_50
+    21300102: PC Computer - MapleStory - Duku_51
+    21300104: PC Computer - MapleStory - Duku_52
+    21300106: PC Computer - MapleStory - Duku_53
+    21300108: PC Computer - MapleStory - Duku_54
+    21300110: PC Computer - MapleStory - Duku_55
+    21300112: PC Computer - MapleStory - Duku_56
+    21300114: PC Computer - MapleStory - Duku_57
+    21300116: PC Computer - MapleStory - Duku_58
+    21300118: PC Computer - MapleStory - Duku_59
+    21300120: PC Computer - MapleStory - Duku_60
+    21300122: PC Computer - MapleStory - Duku_61
+    21300124: PC Computer - MapleStory - Duku_62
+    21300126: PC Computer - MapleStory - Duku_63
+    21300128: PC Computer - MapleStory - Duku_64
+    21300130: PC Computer - MapleStory - Duku_65
+    21300132: PC Computer - MapleStory - Duku_66
+    21300134: PC Computer - MapleStory - Duku_67
+    21300136: PC Computer - MapleStory - Duku_68
+    21300138: PC Computer - MapleStory - Duku_69
+    21300140: PC Computer - MapleStory - Duku_70
+    21300142: PC Computer - MapleStory - Duku_71
+    21300144: PC Computer - MapleStory - Duku_72
+    21300146: PC Computer - MapleStory - Duku_73
+    21300148: PC Computer - MapleStory - Duku_74
+    21300150: PC Computer - MapleStory - Duku_75
+    21300152: PC Computer - MapleStory - Duku_76
+    21300154: PC Computer - MapleStory - Duku_77
+    21300156: PC Computer - MapleStory - Duku_78
+    21300158: PC Computer - MapleStory - Duku_79
+    21300160: PC Computer - MapleStory - Duku_80
+    21300162: PC Computer - MapleStory - Duku_81
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1299
+        width: 190
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1299
+        width: 190
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_2
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1299
+        width: 190
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_3
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1299
+        width: 190
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_4
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1299
+        width: 190
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_5
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1299
+        width: 190
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1127
+        width: 190
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1127
+        width: 186
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_8
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1127
+        width: 186
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_9
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1127
+        width: 190
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_10
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1127
+        width: 190
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_11
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1127
+        width: 192
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 939
+        width: 190
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_13
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 936
+        width: 190
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_14
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 934
+        width: 192
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_15
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 931
+        width: 195
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_16
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 929
+        width: 198
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_17
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 928
+        width: 200
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_18
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 928
+        width: 198
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 842
+        width: 106
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_20
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 842
+        width: 111
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_21
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 847
+        width: 107
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_22
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 831
+        width: 68
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_23
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 837
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 650
+        width: 190
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_25
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 644
+        width: 189
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_26
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 641
+        width: 193
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_27
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 640
+        width: 193
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_28
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 640
+        width: 193
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_29
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 641
+        width: 218
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_30
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 643
+        width: 197
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_31
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 566
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_32
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 574
+        width: 70
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_33
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 576
+        width: 72
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_34
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 604
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_35
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 589
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_36
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 581
+        width: 52
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_37
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 588
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_38
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 587
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_39
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 590
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_40
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 588
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_41
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 587
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_42
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 373
+        width: 190
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_43
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 373
+        width: 190
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_44
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 371
+        width: 212
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_45
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 460
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_46
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 366
+        width: 215
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_47
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 363
+        width: 243
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_48
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 369
+        width: 222
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_49
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 370
+        width: 67
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_50
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 427
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_51
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 396
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_52
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 385
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_53
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 191
+        width: 192
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_54
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 351
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_55
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 299
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_56
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 299
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_57
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 221
+        width: 201
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_58
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 284
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_59
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 218
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_60
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 13
+        width: 192
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_61
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 173
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_62
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 13
+        width: 190
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_63
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 121
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_64
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 121
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_65
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 13
+        width: 190
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_66
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 13
+        width: 195
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_67
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 13
+        width: 204
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_68
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 13
+        width: 201
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_69
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 13
+        width: 126
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_70
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 106
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_71
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 96
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_72
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 84
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_73
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 40
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_74
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 78
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_75
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 45
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_76
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 67
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_77
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 57
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_78
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 45
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_79
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 44
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_80
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 30
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Duku_81
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 20
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
